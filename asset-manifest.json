@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-repo-view/static/css/main.9c23427c.chunk.css",
+    "main.js": "/github-repo-view/static/js/main.3a174735.chunk.js",
+    "main.js.map": "/github-repo-view/static/js/main.3a174735.chunk.js.map",
+    "runtime-main.js": "/github-repo-view/static/js/runtime-main.78ae5178.js",
+    "runtime-main.js.map": "/github-repo-view/static/js/runtime-main.78ae5178.js.map",
+    "static/js/2.83a04da1.chunk.js": "/github-repo-view/static/js/2.83a04da1.chunk.js",
+    "static/js/2.83a04da1.chunk.js.map": "/github-repo-view/static/js/2.83a04da1.chunk.js.map",
+    "index.html": "/github-repo-view/index.html",
+    "precache-manifest.7304bcfd6e7c6b8f910e21dd2662f685.js": "/github-repo-view/precache-manifest.7304bcfd6e7c6b8f910e21dd2662f685.js",
+    "service-worker.js": "/github-repo-view/service-worker.js",
+    "static/css/main.9c23427c.chunk.css.map": "/github-repo-view/static/css/main.9c23427c.chunk.css.map",
+    "static/js/2.83a04da1.chunk.js.LICENSE.txt": "/github-repo-view/static/js/2.83a04da1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78ae5178.js",
+    "static/js/2.83a04da1.chunk.js",
+    "static/css/main.9c23427c.chunk.css",
+    "static/js/main.3a174735.chunk.js"
+  ]
+}
